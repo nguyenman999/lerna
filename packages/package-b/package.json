@@ -1,6 +1,6 @@
 {
   "name": "package-b",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "package-c": "workspace:^1.0.0"
+    "package-c": "workspace:^0.0.1"
   }
 }
