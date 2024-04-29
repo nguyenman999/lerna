@@ -1,0 +1,22 @@
+{
+  "name": "package-d",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Nguyen Man <nguyenman999@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/package-d.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://nexus.taservs.net/content/groups/npm-all/"
+  },
+  "scripts": {
+    "test": "node ./__tests__/package-d.test.js"
+  }
+}
